@@ -1,5 +1,5 @@
 {
-    "name": "oncesk/runkit",
+    "name": "tanatoss/runkit",
     "description": "realtime code modification",
     "keywords": ["runkit"],
     "homepage": "https://github.com/oncesk/runkit",
@@ -12,7 +12,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Runkit": "src",
+            "Runkit\\": "src",
             "Runkit\\Tests": "tests"
         }
     }
